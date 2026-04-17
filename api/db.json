@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "9b2156a5-aaa8-4619-a247-848534834129",
+      "title": "Title Here1",
+      "author": "Me",
+      "year": 1949,
+      "available": false
+    },
+    {
+      "id": "c59e7e42-82da-4083-9857-0e805da3bf4c",
+      "title": "asdf",
+      "author": "asdf",
+      "year": "333",
+      "available": true
+    }
+  ],
+  "authors": [
+    {
+      "id": "3bea5dc0-b6fc-472d-b733-499d50322e80",
+      "name": "F. Scott Fitzgerald",
+      "birth_year": 1896,
+      "country": "USA"
+    },
+    {
+      "id": "18cc230a-89b7-4097-832e-7a09963fae9e",
+      "name": "George Orwell",
+      "birth_year": 1903,
+      "country": "UK"
+    }
+  ]
+}
